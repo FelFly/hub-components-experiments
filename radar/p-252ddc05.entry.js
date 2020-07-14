@@ -1,0 +1,1 @@
+import{r as s,h as l,H as r}from"./p-1fd9320b.js";const e=class{constructor(l){s(this,l)}render(){return l(r,null,l("slot",null),l("em",null,"I'm a license picker!"))}};e.style=":host{display:block}";export{e as hub_license_picker}

@@ -1,0 +1,1 @@
+System.register(["./p-bda334d9.system.js"],(function(e){"use strict";var t,n,r;return{setters:[function(e){t=e.r;n=e.h;r=e.H}],execute:function(){var s=":host{display:block}";var u=e("hub_license_picker",function(){function e(e){t(this,e)}e.prototype.render=function(){return n(r,null,n("slot",null),n("em",null,"I'm a license picker!"))};return e}());u.style=s}}}));

@@ -1,0 +1,1 @@
+const e={container:"container",arrow:"arrow",imageContainer:"image-container",closeButton:"close-button",content:"content"},t="data-calcite-tooltip-reference",a="aria-describedby";export{a as A,e as C,t as P}
